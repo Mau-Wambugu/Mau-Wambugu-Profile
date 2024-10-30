@@ -51,7 +51,10 @@
 
 ### 📫 Get in Touch
 - **Email:** [maureenwambugu41@gmail.com](mailto:maureenwambugu41@gmail.com)  
-- **LinkedIn:** [Maureen Wambugu](https://www.linkedin.com/your-profile-link)  
+- **LinkedIn:** [Maureen Wambugu](https://www.linkedin.com/in/
+maureen-wambugu-02596924b
+
+)  
 - 😄 **Pronouns:** She/Her  
 - ⚡ **Fun Fact:** Did you know? The average person generates about 1.7 MB of data every second! Just imagine the insights we could uncover from it all!
 
